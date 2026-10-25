@@ -6,7 +6,7 @@ import android.util.Log
 
 class EstilStareAccessibilityService : AccessibilityService() {
 
-    companion5 object {
+    companion object {
         private const val TAG = "EstilStareAccess"
     }
 
